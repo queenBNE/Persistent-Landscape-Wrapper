@@ -1,5 +1,5 @@
 # Persistent-Landscape-Wrapper
-A Matlab wrapper for (part of) the [persistent landscape toolkit] (https://www.math.upenn.edu/~dlotko/persistenceLandscape.html) that was developed by Pawel Dlotko. 
+A Matlab wrapper for (part of) the [persistent landscape toolkit] (https://www.math.upenn.edu/~dlotko/persistenceLandscape.html) that was developed by Pawel Dlotko. See the paper [A persistence landscapes toolbox for topological statistics](http://arxiv.org/abs/1501.00179) for details of the technique. 
 
 ## Installation
 Clone or download the code in this repository. 
